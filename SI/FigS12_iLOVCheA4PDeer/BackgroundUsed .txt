@@ -1,0 +1,2 @@
+Background used:
+Polyexp2, truncsize=39/40, fitrange = 1 

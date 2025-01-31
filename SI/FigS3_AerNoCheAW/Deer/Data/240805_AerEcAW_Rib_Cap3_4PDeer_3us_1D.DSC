@@ -1,0 +1,26 @@
+* Exported from Matlab using EasySpin, 13-Sep-2024 10:59:56
+#DESC	1.2 * DESCRIPTOR INFORMATION ***********************
+DSRC	MAN
+BSEQ	BIG
+IKKF	CPLX
+IRFMT	D
+IIFMT	D
+XTYP	IDX
+YTYP	NODATA
+ZTYP	NODATA
+XPTS	188
+XMIN	-50
+XWID	2992
+TITL	'240805_AerEcAW_Rib_Cap3_4PDeer_3us_1D'
+*
+************************************************************
+*
+#SPL	1.2 * STANDARD PARAMETER LAYER
+OPER	
+DATE	13/09/24
+TIME	10:59:56
+CMNT	
+SAMP	
+SFOR	
+MWFQ	3.349354e+10
+
